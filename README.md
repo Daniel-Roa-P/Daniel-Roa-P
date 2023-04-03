@@ -20,6 +20,6 @@ I still have a lot of things to learn, these are my current interest:
 
 - React (working on it) 
 
-- Android (I have an academic app on the play store) 
+- Android (I have an [academic app](https://play.google.com/store/apps/details?id=mi.aplicacion.PromediaTuSemestre) on the play store) 
 
 - Everything related with AI 
