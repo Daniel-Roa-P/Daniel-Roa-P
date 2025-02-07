@@ -12,13 +12,16 @@ My name is Daniel Alejandro Roa Palacios, and this is my Github account, I have 
 
 - JavaScript (I'm improving with web pages) 
 
-  
+### Recent activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 I still have a lot of things to learn, these are my current interest: 
 
-  
-
 - React (working on it) 
+
+- Django (working on it)
 
 - Android (I have an [academic app](https://play.google.com/store/apps/details?id=mi.aplicacion.PromediaTuSemestre) on the play store) 
 
