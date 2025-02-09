@@ -15,14 +15,14 @@ My name is Daniel Alejandro Roa Palacios, and this is my Github account, I have 
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Daniel-Roa-P/Daniel-Roa-P](https://github.com/Daniel-Roa-P/Daniel-Roa-P)<br>
-2. ⬆️ Pushed 1 commit(s) to [Daniel-Roa-P/Daniel-Roa-P](https://github.com/Daniel-Roa-P/Daniel-Roa-P)<br>
-3. ⬆️ Pushed 1 commit(s) to [Daniel-Roa-P/Daniel-Roa-P](https://github.com/Daniel-Roa-P/Daniel-Roa-P)<br>
-4. ⬆️ Pushed 1 commit(s) to [Daniel-Roa-P/Daniel-Roa-P](https://github.com/Daniel-Roa-P/Daniel-Roa-P)<br>
-5. ⬆️ Pushed 1 commit(s) to [Daniel-Roa-P/platziCourse2025](https://github.com/Daniel-Roa-P/platziCourse2025)<br>
+1. ⬆️ Pushed 3 commit(s) to [Daniel-Roa-P/repositorioDesdeCLI](https://github.com/Daniel-Roa-P/repositorioDesdeCLI)<br>
+2. 🎉 Merged PR [#3](https://github.com/Daniel-Roa-P/repositorioDesdeCLI/pull/3) in [Daniel-Roa-P/repositorioDesdeCLI](https://github.com/Daniel-Roa-P/repositorioDesdeCLI)<br>
+3. 💪 Opened PR [#3](https://github.com/Daniel-Roa-P/repositorioDesdeCLI/pull/3) in [Daniel-Roa-P/repositorioDesdeCLI](https://github.com/Daniel-Roa-P/repositorioDesdeCLI)<br>
+4. ⬆️ Pushed 2 commit(s) to [Daniel-Roa-P/repositorioDesdeCLI](https://github.com/Daniel-Roa-P/repositorioDesdeCLI)<br>
+5. ⬆️ Pushed 2 commit(s) to [Daniel-Roa-P/repositorioDesdeCLI](https://github.com/Daniel-Roa-P/repositorioDesdeCLI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 8th, 2025, 1:24:04 AM
+Last Updated: Sunday, February 9th, 2025, 1:37:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 I still have a lot of things to learn, these are my current interest: 
