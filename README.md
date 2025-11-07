@@ -17,7 +17,7 @@ My name is Daniel Alejandro Roa Palacios, and this is my Github account, I have 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 6th, 2025, 1:48:39 AM
+Last Updated: Friday, November 7th, 2025, 1:47:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 I still have a lot of things to learn, these are my current interest: 
